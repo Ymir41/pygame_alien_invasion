@@ -1,0 +1,8 @@
+.project
+.pydevproject
+.venv/*
+*.exe
+main/__pycache__/*
+*.spec
+main/build/*
+main/dist/*
